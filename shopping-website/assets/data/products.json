@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Headphones",
+        "price": 59.99,
+        "description": "High-quality wireless headphones with noise cancellation.",
+        "image": "assets/images/wireless-headphones.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Smart Watch",
+        "price": 199.99,
+        "description": "Stylish smart watch with fitness tracking features.",
+        "image": "assets/images/smart-watch.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Bluetooth Speaker",
+        "price": 39.99,
+        "description": "Portable Bluetooth speaker with excellent sound quality.",
+        "image": "assets/images/bluetooth-speaker.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Laptop Stand",
+        "price": 29.99,
+        "description": "Ergonomic laptop stand for better posture and comfort.",
+        "image": "assets/images/laptop-stand.jpg"
+    },
+    {
+        "id": 5,
+        "name": "USB-C Hub",
+        "price": 24.99,
+        "description": "Multi-port USB-C hub for connecting multiple devices.",
+        "image": "assets/images/usb-c-hub.jpg"
+    }
+]
